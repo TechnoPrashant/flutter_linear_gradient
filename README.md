@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
 ```
 
 # Video
-- <a href="https://www.youtube.com/watch?v=Ig6Khy9LHX8">Watch Video</a>
+- <a href="https://www.youtube.com/watch?v=LhrdQ6XxlMI">Watch Video</a>
 
 ### Gradient Orientation.
 
