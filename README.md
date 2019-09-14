@@ -1,6 +1,6 @@
 # linear_gradient
 
-A Flutter plugin for iOS and Android for Linear gradient with 300+ different color combination.
+Linear gradient with 300+ different color combination. Also, it will options for change gradient orientation Vertical and Horizontal.
 
 > Feedback and Pull Requests are most welcome!
 
@@ -49,8 +49,11 @@ class MyApp extends StatelessWidget {
 
 ```
 
-# Video
+#### Video
 - <a href="https://www.youtube.com/watch?v=LhrdQ6XxlMI">Watch Video</a>
+
+### Example
+<img src="https://github.com/Prashant09mca/flutter_linear_gradient/blob/master/demo.gif"/>
 
 ### Gradient Orientation.
 
