@@ -11,7 +11,7 @@ Add to pubspec.yaml.
 ```yaml
 dependencies:
   ...
-  linear_gradient: ^0.1.2
+  linear_gradient: ^0.1.4
 ```
 
 ### How to use.

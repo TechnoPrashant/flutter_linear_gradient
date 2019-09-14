@@ -67,9 +67,9 @@ class LinearGradientStyle {
   static const GRADIENT_TYPE_ORANGE_FUN = 57;
   static const GRADIENT_TYPE_DIGITAL_WATER = 58;
   static const GRADIENT_TYPE_LITHIUM = 59;
-  static const GRADIENT_TYPE_ARGON = 60;
-  static const GRADIENT_TYPE_HYDROGEN = 61;
-  static const GRADIENT_TYPE_ZINC = 62;
+  // static const GRADIENT_TYPE_ARGON = 60;
+  // static const GRADIENT_TYPE_HYDROGEN = 61;
+  // static const GRADIENT_TYPE_ZINC = 62;
   static const GRADIENT_TYPE_VELVET_SUN = 63;
   static const GRADIENT_TYPE_KING_YNA = 64;
   static const GRADIENT_TYPE_SUMMER = 65;

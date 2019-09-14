@@ -261,7 +261,7 @@ class ColorPatterns {
         colorList.add(Color(0xFF6d6027));
         colorList.add(Color(0xFFd3cbb8));
         break;
-      case LinearGradientStyle.GRADIENT_TYPE_ARGON:
+/*      case LinearGradientStyle.GRADIENT_TYPE_ARGON:
         colorList.add(Color(0xFF03001e));
         colorList.add(Color(0xFF7303c0));
         colorList.add(Color(0xFFec38bc));
@@ -278,7 +278,7 @@ class ColorPatterns {
         colorList.add(Color(0xFFf2f2f2));
         colorList.add(Color(0xFFdbdbdb));
         colorList.add(Color(0xFFeaeaea));
-        break;
+        break;*/
       case LinearGradientStyle.GRADIENT_TYPE_VELVET_SUN:
         colorList.add(Color(0xFFe1eec3));
         colorList.add(Color(0xFFf05053));
