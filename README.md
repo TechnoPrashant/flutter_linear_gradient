@@ -73,5 +73,5 @@ CustomGradient.GRADIENT_TYPE_COOL_SKY.
 CustomGradient.GRADIENT_TYPE_YODA.
 CustomGradient.GRADIENT_TYPE_MEMARIANI.
 
-# ☕️ Buy Coffee
+### ☕️ Buy Coffee
  <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
