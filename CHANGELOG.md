@@ -1,3 +1,8 @@
+## 0.1.6
+
+- Added Documents.
+- Update README file.
+
 ## 0.1.5
 
 - Added new gradients.
@@ -17,11 +22,9 @@
 
 - Updated README file.
 
-
 ## 0.1.1
 
 - Updated README file.
-
 
 ## 0.1.0
 

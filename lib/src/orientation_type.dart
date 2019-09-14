@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class OrientationType {
+  /// Returns offset of Gradient
   FractionalOffset offsetEnd(int orientation) {
     FractionalOffset fractionalOffset;
     if (orientation == 0001) {

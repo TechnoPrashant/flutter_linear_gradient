@@ -5,6 +5,9 @@ import 'linear_gradient_style.dart';
 class ColorPatterns {
   List<Color> getColorCombination(int gradientType) {
     List<Color> colorList = new List();
+
+    /// Clear previous Color list.
+    /// Return colors list based on Gradient type selection
     if (colorList != null) {
       colorList.clear();
     }
