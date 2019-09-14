@@ -11,7 +11,7 @@ Add to pubspec.yaml.
 ```yaml
 dependencies:
   ...
-  linear_gradient: ^0.1.4
+  linear_gradient: ^0.1.5
 ```
 
 ### How to use.
@@ -46,35 +46,31 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 ```
-
-#### Video
-- <a href="https://www.youtube.com/watch?v=LhrdQ6XxlMI">Watch Video</a>
-
-### Example
-<img src="https://github.com/Prashant09mca/flutter_linear_gradient/blob/master/demo.gif"/>
 
 ### Gradient Orientation.
 
-CustomGradient.ORIENTATION_HORIZONTAL.
-CustomGradient.ORIENTATION_VERTICAL.
-
+```dart
+CustomGradient.ORIENTATION_HORIZONTAL
+CustomGradient.ORIENTATION_VERTICAL
+```
 
 ### Gradient Type (300+ Type are available).
+
 Here is Some Examples.
-
-CustomGradient.GRADIENT_TYPE_GRADE_GREY.
-CustomGradient.GRADIENT_TYPE_PIGGY_PINK.
-CustomGradient.GRADIENT_TYPE_COOL_BLUES.
-CustomGradient.GRADIENT_TYPE_MEGATRON.
+```dart
+CustomGradient.GRADIENT_TYPE_GRADE_GREY
+CustomGradient.GRADIENT_TYPE_PIGGY_PINK
+CustomGradient.GRADIENT_TYPE_COOL_BLUES
+CustomGradient.GRADIENT_TYPE_MEGATRON
 CustomGradient.GRADIENT_TYPE_MOONLIT_ASTEROID.
-CustomGradient.GRADIENT_TYPE_JSHINE.
+CustomGradient.GRADIENT_TYPE_JSHINE
 CustomGradient.GRADIENT_TYPE_EVENING_SUNSHINE.
-CustomGradient.GRADIENT_TYPE_DARK_OCEAN.
-CustomGradient.GRADIENT_TYPE_COOL_SKY.
-CustomGradient.GRADIENT_TYPE_YODA.
-CustomGradient.GRADIENT_TYPE_MEMARIANI.
+CustomGradient.GRADIENT_TYPE_DARK_OCEAN
+CustomGradient.GRADIENT_TYPE_COOL_SKY
+CustomGradient.GRADIENT_TYPE_YODA
+CustomGradient.GRADIENT_TYPE_MEMARIANI
+```
 
-### ☕️ Buy Coffee
- <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+### Video
+<a href="https://www.youtube.com/watch?v=LhrdQ6XxlMI">Watch Video</a>
