@@ -48,6 +48,10 @@ class MyApp extends StatelessWidget {
 }
 
 ```
+
+# Video
+- <a href="https://www.youtube.com/watch?v=Ig6Khy9LHX8">Watch Video</a>
+
 ### Gradient Orientation.
 
 CustomGradient.ORIENTATION_HORIZONTAL.
@@ -69,5 +73,5 @@ CustomGradient.GRADIENT_TYPE_COOL_SKY.
 CustomGradient.GRADIENT_TYPE_YODA.
 CustomGradient.GRADIENT_TYPE_MEMARIANI.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LhrdQ6XxlMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# ☕️ Buy Coffee
+ <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
