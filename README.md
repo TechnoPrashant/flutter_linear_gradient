@@ -47,6 +47,8 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+### Screenshot
+<img src="https://github.com/Prashant09mca/flutter_linear_gradient/blob/master/gradients.png"/>
 
 ### Gradient Orientation.
 
