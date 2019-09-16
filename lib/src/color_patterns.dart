@@ -2,12 +2,14 @@ import 'package:flutter/material.dart';
 
 import 'linear_gradient_style.dart';
 
+/// Clear previous Color list.
+///
+/// Return colors list based on Gradient type selection
+
 class ColorPatterns {
   List<Color> getColorCombination(int gradientType) {
     List<Color> colorList = new List();
 
-    /// Clear previous Color list.
-    /// Return colors list based on Gradient type selection
     if (colorList != null) {
       colorList.clear();
     }

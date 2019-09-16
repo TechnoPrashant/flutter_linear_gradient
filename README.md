@@ -53,25 +53,25 @@ class MyApp extends StatelessWidget {
 ### Gradient Orientation.
 
 ```dart
-CustomGradient.ORIENTATION_HORIZONTAL
-CustomGradient.ORIENTATION_VERTICAL
+LinearGradientStyle.ORIENTATION_HORIZONTAL
+LinearGradientStyle.ORIENTATION_VERTICAL
 ```
 
 ### Gradient Type (300+ Type are available).
 
 Here is Some Examples.
 ```dart
-CustomGradient.GRADIENT_TYPE_GRADE_GREY
-CustomGradient.GRADIENT_TYPE_PIGGY_PINK
-CustomGradient.GRADIENT_TYPE_COOL_BLUES
-CustomGradient.GRADIENT_TYPE_MEGATRON
-CustomGradient.GRADIENT_TYPE_MOONLIT_ASTEROID.
-CustomGradient.GRADIENT_TYPE_JSHINE
-CustomGradient.GRADIENT_TYPE_EVENING_SUNSHINE.
-CustomGradient.GRADIENT_TYPE_DARK_OCEAN
-CustomGradient.GRADIENT_TYPE_COOL_SKY
-CustomGradient.GRADIENT_TYPE_YODA
-CustomGradient.GRADIENT_TYPE_MEMARIANI
+LinearGradientStyle.GRADIENT_TYPE_GRADE_GREY
+LinearGradientStyle.GRADIENT_TYPE_PIGGY_PINK
+LinearGradientStyle.GRADIENT_TYPE_COOL_BLUES
+LinearGradientStyle.GRADIENT_TYPE_MEGATRON
+LinearGradientStyle.GRADIENT_TYPE_MOONLIT_ASTEROID.
+LinearGradientStyle.GRADIENT_TYPE_JSHINE
+LinearGradientStyle.GRADIENT_TYPE_EVENING_SUNSHINE.
+LinearGradientStyle.GRADIENT_TYPE_DARK_OCEAN
+LinearGradientStyle.GRADIENT_TYPE_COOL_SKY
+LinearGradientStyle.GRADIENT_TYPE_YODA
+LinearGradientStyle.GRADIENT_TYPE_MEMARIANI
 ```
 
 ### Video
