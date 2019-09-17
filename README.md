@@ -32,7 +32,7 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   /// This is an example app which make use of
-  /// How to use `Custom Gradient Box Decoration`
+  /// How to use Custom Gradient Box Decoration
 
   @override
   Widget build(BuildContext context) {
