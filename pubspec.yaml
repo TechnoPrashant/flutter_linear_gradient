@@ -1,7 +1,6 @@
 name: linear_gradient
 description: Linear gradient with 300+ different color combination. Also, it will options for change gradient orientation Vertical and Horizontal.
-  Now you can use Gradients style color as theme. By using getColorCombination() to get Gradients color list by passing gradient type.
-version: 0.1.11
+version: 0.1.12
 author: Techno Prashant <prashant09mca@gmail.com>
 homepage: https://github.com/Prashant09mca/flutter_linear_gradient
 

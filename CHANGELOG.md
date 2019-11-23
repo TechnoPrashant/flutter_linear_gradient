@@ -1,3 +1,7 @@
+## 0.1.12
+
+- Clean code.
+
 ## 0.1.11
 
 - Added code snips for get Gradients color list by passing gradient type.
