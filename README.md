@@ -1,7 +1,7 @@
 # linear_gradient
 
 Linear gradient with 300+ different color combination. Also, it will options for change gradient orientation Vertical and Horizontal.
-Now you can use Gradients style color as theme. by using getColorCombination() to get Gradients color list by passing gradient type.
+Now you can use Gradients style color as theme. By using getColorCombination() to get Gradients color list by passing gradient type.
 
 > Feedback and Pull Requests are most welcome!
 
@@ -12,7 +12,7 @@ Add to pubspec.yaml.
 ```yaml
 dependencies:
   ...
-  linear_gradient: ^0.1.10
+  linear_gradient: ^0.1.11
 ```
 
 ### How to use.
@@ -77,7 +77,8 @@ LinearGradientStyle.GRADIENT_TYPE_MEMARIANI
 
 ### Get Gradients color list by passing gradient type
 ```dart
-
+List<Color> colorCombination = LinearGradientStyle.getColorCombination(
+      gradientType: LinearGradientStyle.GRADIENT_TYPE_ROYAL);
 ```
 
 ### Video
