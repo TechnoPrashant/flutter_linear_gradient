@@ -4,10 +4,11 @@ import 'color_patterns.dart';
 import 'orientation_type.dart';
 
 class LinearGradientStyle {
-  // Orientation
+  /// Orientation
   static const ORIENTATION_VERTICAL = 0001;
   static const ORIENTATION_HORIZONTAL = 0002;
-  // Types of Gradient Style
+
+  /// Types of Gradient Style
   static const GRADIENT_TYPE_GRADE_GREY = 0;
   static const GRADIENT_TYPE_PIGGY_PINK = 1;
   static const GRADIENT_TYPE_COOL_BLUES = 2;
@@ -374,5 +375,9 @@ class LinearGradientStyle {
     }
 
     return linearGradient;
+  }
+
+  static List<Color> getColorCombination({int gradientType}) {
+    return ColorPatterns().getColorCombination(gradientType);
   }
 }
