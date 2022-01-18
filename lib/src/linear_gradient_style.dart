@@ -343,7 +343,9 @@ class LinearGradientStyle {
 
   /// [getColorCombination()] which get color Combination based on Gradient Type Selection
   /// [OrientationType()] It will set Gradient offset Horizontal and Vertical based on Selection.
-  static LinearGradient linearGradient({int orientation, int gradientType}) {
+  static LinearGradient linearGradient(
+      {int orientation = LinearGradientStyle.ORIENTATION_HORIZONTAL,
+      int gradientType = LinearGradientStyle.GRADIENT_TYPE_ROYAL}) {
     LinearGradient linearGradient;
     if (orientation == 0) {
       linearGradient = LinearGradient(
@@ -377,7 +379,7 @@ class LinearGradientStyle {
     return linearGradient;
   }
 
-  static List<Color> getColorCombination({int gradientType}) {
+  static List<Color> getColorCombination({required int gradientType}) {
     return ColorPatterns().getColorCombination(gradientType);
   }
 }
