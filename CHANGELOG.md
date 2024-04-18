@@ -1,3 +1,8 @@
+## 0.1.13
+
+- Null Safety.
+- Update to latest flutter version
+
 ## 0.1.12
 
 - Clean code.
